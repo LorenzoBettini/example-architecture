@@ -16,7 +16,7 @@
   </properties>
 
   <modules>
-    <module>school-core</module>
+    <module>../school-core</module>
   </modules>
 
   <dependencies>
